@@ -1,7 +1,13 @@
+
+
 # Programmation-orientee-objet-creation-d-une-classe
+
+
 Créer une classe qui va permettre de simuler la vie d'un data analyst.  
 On souhaite créer notre première classe dataAnalyst qui va simuler la vie d'un data analyst.  
 Voici les caractéristiques de la classe :  
+
+
 attributs :  
 nom (str). 
 prenom (str). 
